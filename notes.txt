@@ -2,7 +2,7 @@ Birb types: Robin, chicken, magpie, raven, penguin, roadrunner, hummingbird, pea
 
 Tiddy sizes: Flat, small, medium, large, ridiculous
 
-Wing options: Arms are wings, arms are not wings, clipped or not (you monster), extra wings (in pairs)
+Wing options: Arms are wings, arms are not wings (if so, talons?), clipped or not (you monster), extra wings (in pairs)
 
 Feather options: Colour, softness, where
 
