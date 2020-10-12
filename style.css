@@ -18,7 +18,7 @@ body {
 .choicebox {
     display: inline-block;
     width: 100%;
-    border: 1px white;
+    border: 4px white;
 }
 
 .choicebox a {
@@ -60,4 +60,13 @@ body {
     height: 252px;
     background-size: cover;
     background-position: center center;
+}
+
+.optionbox {
+    float: left;
+    margin-left: 2px;
+    width: 252px;
+    height: 125px;
+    text-align: center;
+    /*display: inline-block;*/
 }

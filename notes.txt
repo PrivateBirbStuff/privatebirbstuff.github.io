@@ -1,21 +1,23 @@
-Birb types: Robin, chicken, magpie, raven, penguin, roadrunner, hummingbird, peahen, owl, dove, cuckoo and eagle
+Birb types: Robin, chicken, magpie, raven, penguin, roadrunner, hummingbird, peahen, owl, dove, cuckoo and eagle -- Implemented
 
-Tiddy sizes: Flat, small, medium, large, ridiculous
+Tiddy sizes: Flat, small, medium, large, ridiculous -- Implemented
 
-Wing options: Arms are wings, arms are not wings (if so, talons?), clipped or not (you monster), extra wings (in pairs)
+Wing options: Arms are wings, arms are not wings (if so, talons?), clipped or not (you monster), extra wings (in pairs) -- In Progress
 
-Feather options: Colour, softness, where
+Feather options: Colour, softness, where -- In Progress
 
-Skin colour: Idk man, whatever you want?
+Skin colour: Idk man, whatever you want? -- In Progress
 
-Body type: Slim, toned, muscular, T H I C C, chubby
+Body type: Slim, toned, muscular, T H I C C, chubby -- Implemented
 
-Misc options: Loli, egg-layer
+Misc options: Loli, egg-layer -- In Progress 
 
-Flightlessness caused by 2 of the biggest option, or 3 of the second biggest
+Flightlessness caused by 2 of the biggest option, or 3 of the second biggest -- Implemented 
 
-Feather Softness: Shampoo (famcy or no), conditioner (fancy or no), how often she bathes, 
+Feather Softness: Shampoo (famcy or no), conditioner (fancy or no), how often she bathes, -- In Progress
 
-Personality quirks: Stronger maternal instincts (especially during mating season/heat),
+Personality quirks: Stronger maternal instincts (especially during mating season/heat), -- In Progress
 
-Incest options: Growth rate for chicks, 
+Incest options: Growth rate for chicks, -- In Progress
+
+Harpy Job: Synergy +25% boost and anergy -25% loss -- In Progress
